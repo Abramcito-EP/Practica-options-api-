@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'RedButton',
+  name: 'DangerButton',
   props: {},
 }
 </script>
